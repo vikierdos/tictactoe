@@ -2,4 +2,4 @@
 
 ## UML ábra
 
-![UML ábra](uml.png "UML ábra")
+![UML ábra](uml_ttt.png "UML ábra")
